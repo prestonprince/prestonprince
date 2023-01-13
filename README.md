@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image(1).png)
 
 <div style="display: inline;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
